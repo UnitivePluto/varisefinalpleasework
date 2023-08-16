@@ -8,6 +8,8 @@ TagManager:
   - collider2
   - collider3
   - collider4
+  - plate
+  - Test
   layers:
   - Default
   - TransparentFX
